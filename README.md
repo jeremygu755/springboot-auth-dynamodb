@@ -1,4 +1,4 @@
-# Spring Boot Auth + React Native Frontend
+# Spring Boot Auth API + React Native Frontend
 
 A full-stack JWT authentication system with a **Spring Boot backend** and a **React Native (Expo) frontend**.
 
